@@ -1,0 +1,1 @@
+Welcome to my personal portfolio project! Created with HTML and CSS, this site showcases my skills, projects, and experiences in a visually appealing manner. Explore my portfolio, learn about my background, and get in touch. Designed to highlight my creativity and coding abilities, enjoy browsing through my work!
